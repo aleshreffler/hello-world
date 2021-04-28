@@ -1,5 +1,6 @@
 # hello-world
 Getting to know Github
-My name is Alex. I am failing at staying motivated, but I am trying to do better!
+My name is Alex. I am failing at staying *FOCUSED*, but I am trying to do better!
 
-My goal is to be caught up on my coursework for 489 by the end of the week!
+My goal is to understand more about GitHub in the next few hours. 
+
